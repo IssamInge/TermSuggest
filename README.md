@@ -10,3 +10,7 @@ IDE recommandé : Visual Studio 2022
 Utilisation
 Mode Démonstration
 L'application lance automatiquement des démonstrations
+
+Projet de Démarrage :
+
+Application console TermSuggest.Cli
