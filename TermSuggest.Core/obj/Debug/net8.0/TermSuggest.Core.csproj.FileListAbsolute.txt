@@ -1,0 +1,11 @@
+D:\ProjetsNet\TermSuggest\TermSuggest.Core\bin\Debug\net8.0\TermSuggest.Core.deps.json
+D:\ProjetsNet\TermSuggest\TermSuggest.Core\bin\Debug\net8.0\TermSuggest.Core.dll
+D:\ProjetsNet\TermSuggest\TermSuggest.Core\bin\Debug\net8.0\TermSuggest.Core.pdb
+D:\ProjetsNet\TermSuggest\TermSuggest.Core\obj\Debug\net8.0\TermSuggest.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetsNet\TermSuggest\TermSuggest.Core\obj\Debug\net8.0\TermSuggest.Core.AssemblyInfoInputs.cache
+D:\ProjetsNet\TermSuggest\TermSuggest.Core\obj\Debug\net8.0\TermSuggest.Core.AssemblyInfo.cs
+D:\ProjetsNet\TermSuggest\TermSuggest.Core\obj\Debug\net8.0\TermSuggest.Core.csproj.CoreCompileInputs.cache
+D:\ProjetsNet\TermSuggest\TermSuggest.Core\obj\Debug\net8.0\TermSuggest.Core.dll
+D:\ProjetsNet\TermSuggest\TermSuggest.Core\obj\Debug\net8.0\refint\TermSuggest.Core.dll
+D:\ProjetsNet\TermSuggest\TermSuggest.Core\obj\Debug\net8.0\TermSuggest.Core.pdb
+D:\ProjetsNet\TermSuggest\TermSuggest.Core\obj\Debug\net8.0\ref\TermSuggest.Core.dll

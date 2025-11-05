@@ -1,0 +1,15 @@
+D:\ProjetsNet\TermSuggest\TermSuggest.Services\bin\Debug\net8.0\TermSuggest.Services.deps.json
+D:\ProjetsNet\TermSuggest\TermSuggest.Services\bin\Debug\net8.0\TermSuggest.Services.dll
+D:\ProjetsNet\TermSuggest\TermSuggest.Services\bin\Debug\net8.0\TermSuggest.Services.pdb
+D:\ProjetsNet\TermSuggest\TermSuggest.Services\bin\Debug\net8.0\TermSuggest.Core.dll
+D:\ProjetsNet\TermSuggest\TermSuggest.Services\bin\Debug\net8.0\TermSuggest.Core.pdb
+D:\ProjetsNet\TermSuggest\TermSuggest.Services\obj\Debug\net8.0\TermSuggest.Services.csproj.AssemblyReference.cache
+D:\ProjetsNet\TermSuggest\TermSuggest.Services\obj\Debug\net8.0\TermSuggest.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetsNet\TermSuggest\TermSuggest.Services\obj\Debug\net8.0\TermSuggest.Services.AssemblyInfoInputs.cache
+D:\ProjetsNet\TermSuggest\TermSuggest.Services\obj\Debug\net8.0\TermSuggest.Services.AssemblyInfo.cs
+D:\ProjetsNet\TermSuggest\TermSuggest.Services\obj\Debug\net8.0\TermSuggest.Services.csproj.CoreCompileInputs.cache
+D:\ProjetsNet\TermSuggest\TermSuggest.Services\obj\Debug\net8.0\TermSuggest.Services.csproj.CopyComplete
+D:\ProjetsNet\TermSuggest\TermSuggest.Services\obj\Debug\net8.0\TermSuggest.Services.dll
+D:\ProjetsNet\TermSuggest\TermSuggest.Services\obj\Debug\net8.0\refint\TermSuggest.Services.dll
+D:\ProjetsNet\TermSuggest\TermSuggest.Services\obj\Debug\net8.0\TermSuggest.Services.pdb
+D:\ProjetsNet\TermSuggest\TermSuggest.Services\obj\Debug\net8.0\ref\TermSuggest.Services.dll
