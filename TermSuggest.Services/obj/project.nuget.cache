@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dVxkm8/YIX9zruCjwtGCzuFYGz6ZSdp8/Ztck76mJQC1XRg2PanG9y0AHTXVjXiVT96ccHSuXMCg2HoSjE9ZZQ==",
+  "success": true,
+  "projectFilePath": "D:\\ProjetsNet\\TermSuggest\\TermSuggest.Services\\TermSuggest.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\33623\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
